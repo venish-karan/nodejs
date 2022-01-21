@@ -1,0 +1,21 @@
+node installs all the dependencies for us 
+it manages the package for us
+
+1. 'node' to start the runtime environment
+2. 'node <filename> to execute the file.
+
+
+3. 'npm' => node package manager is a tool
+    - 'npm init' creates the package or project
+    - 'npm install <package name'
+
+4. npm install -D nodemon
+        => -D we need nodemon in development cycle alone not in production
+        
+5. module means file
+
+6. Emitter
+        => after registering the user emitter can be used (emailing the user, verifying the user)
+
+7. http module => we created out server
+                  request are handled in the server
